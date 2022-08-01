@@ -2,5 +2,8 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
-  ]
+  ],
+  "encrypted": {
+    "npmToken": "wcFMA/xDdHCJBTolAQ//Q9Maqqx43ahqbtlG7cJIxgm5yOmf6xboNPhMYQzEokD3WcA58M12P7s6fZohLSHLly2WCbztwiNvEV5gEtg+bpKyemTqGEPi9t6dq54PnWdDDSpkaRZiQoB1glyBsu/XnyP5Wkz/QyqOVOaiZFziBy3A8+yW00rIiufaSQHdcz1vxZD/VLLyZfAYpWpdhsAHKes4SE1EL9Qq46vnIkDr+x+KvpTUSMGwUC/hJp7M1F90dHBLen8u0p64u+IJVZgKNRiktfmtREB4NQxmYFpGcKq87jNA0miIMYdwGIw0EEMMoqi55Hg+ZPLXUt1DvmlIOcnJWbLYaHropweKrnrKRmEgK4h7VWVd+kTZbE4bYHIwug3uaXV9BEaVerex3EJn7ldElOgDrD37pPKz0Jh9jLkvVpbjLYlXG9oSbruLil1QFBHLseQ3cCBmY6q/jsTYEHqiVLXMmEQpDaWidfZZU/F0soWwR8hX3lQmoBT8Dq3QKy1FGoklEhGHrIPlLaafT8sXNwdUsCd+UVt6FFpdHYYiykDk4Cctjc8OS0Xi3n/XJ2hjuVknIbQLDDKNrv0U51J3GIHC64SHIBT6C2ErYsOzchtZEDFMZNZDhFZJzc739YHf2F4UWa31yJhkcsSXrSLIOskxFBzLO6ec5FdEFRui/CfpvN6C1RuIHiIkpI7SfgEOT0d1oPBuw6CPQwLcCR5oCirJWvoUy972Z6Wpq7er7neaVoNbI6nobHVj57pMRWFst/TrfWZcMJa6YjVoiewXUe9yejolvrIBM9DLE7MysS4rtRqibSkPmpWIId+0PyoGbCzAReIhKwM0BuVD+v1uMiZ/zL2hqy1xfXeoZQ"
+  }
 }
