@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@elephant-healthcare/config-provider": "1.5.2",
-    "extract-tld": "1.1.1",
+    "extract-tld": "^1.1.1",
     "react": "18.2.0",
     "typescript": "4.7.4"
   }

@@ -1,8 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base",
-    ":pinAllExceptPeerDependencies"
+    "config:base"
   ],
   "encrypted": {
     "npmToken": "Yp65eIYrDmjtWuUpHGANRf5xhQAtSboLOiFjwrItg8Hy0I7HDNopbh695O8XesmKVry0cdE2Bkmd0N6uFB5Cr4GeMWB9MeJXsrPQ+pRHuAW6zZyUcZApNtg/SkcU5UTagyNHt4Sa8vTMybR5SockG+zXphNnHqBEPfOVBsu6IkGCZCigjMtG3oQ4IjxIcxozCRbvQlLwqTwnO9PEdRIihdPBFdB0Pk8uMQHj7JVahgyA/nkyMCZHE3xNxK0BFxmqtGdNAyDw8gVxLbjO/FJHljqctMaPvy8U882wKmq/lx7NkbRL4kdbKTfdlC/PKP5PEvXrY5Ndrl1orYC+6uWc9g=="
@@ -13,5 +12,6 @@
       "rangeStrategy": "bump"
     }
   ],
+  "rangeStrategy": "auto",
   "prHourlyLimit": 0 
 }
