@@ -2,13 +2,13 @@ lockfileVersion: 5.4
 
 specifiers:
   '@elephant-healthcare/config-provider': ^1.5.2
-  extract-tld: ^1.0.8
+  extract-tld: ^1.1.0
   react: ^18.2.0
   typescript: ^4.7.4
 
 dependencies:
   '@elephant-healthcare/config-provider': 1.5.2_qtbnez4q7bzoc4eqybg3efzzxe
-  extract-tld: 1.0.8
+  extract-tld: 1.1.0
   react: 18.2.0
   typescript: 4.7.4
 
@@ -24,8 +24,8 @@ packages:
       typescript: 4.7.4
     dev: false
 
-  /extract-tld/1.0.8:
-    resolution: {integrity: sha512-Cps3TjzgGQNqAC8pjAHllgRozWCeR64W4ajaww3vpaIzQnhR8MtcYqgo5uxmkar2ycarDIQh2zGaZJXf3LEOOw==}
+  /extract-tld/1.1.0:
+    resolution: {integrity: sha512-VHxQOFwjoKyYkAvjgL4TpmwqePIIC0AEBg5fJtv0XW6tNs/VFh4JSPrD/0EFsf7Mu5Fct3/ozqchaq+us24twA==}
     dev: false
 
   /js-tokens/4.0.0:
