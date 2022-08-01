@@ -12,5 +12,6 @@
       "matchPackagePrefixes": ["elephant-healthcare"],
       "rangeStrategy": "bump"
     }
-  ]
+  ],
+  "prHourlyLimit": 0 
 }
