@@ -8,7 +8,7 @@ specifiers:
 
 dependencies:
   '@elephant-healthcare/config-provider': 1.5.3_qtbnez4q7bzoc4eqybg3efzzxe
-  extract-tld: 1.1.1
+  extract-tld: 1.1.2
   react: 18.2.0
   typescript: 4.7.4
 
@@ -24,8 +24,8 @@ packages:
       typescript: 4.7.4
     dev: false
 
-  /extract-tld/1.1.1:
-    resolution: {integrity: sha512-Dx/m80CWNinPE37NjdjOZGtCr7yMGxQ0z9hEZQGP5HJ3aE6Iid55bEUiM9UUYMlU6ZP9Fm8RwnwELluZ/AE7vA==}
+  /extract-tld/1.1.2:
+    resolution: {integrity: sha512-2cF2AD1Xz3C9oemTuL7Atmgdc3l5WZgFvh6TxBEoNMvyUvHK/gX928edzdwsUbwmmJ+fbPclrbRHsZoZSXUiAQ==}
     dev: false
 
   /js-tokens/4.0.0:
