@@ -4,24 +4,24 @@ specifiers:
   '@elephant-healthcare/config-provider': 1.5.3
   extract-tld: ^1.1.1
   react: 18.2.0
-  typescript: 4.7.4
+  typescript: 5.4.3
 
 dependencies:
-  '@elephant-healthcare/config-provider': 1.5.3_qtbnez4q7bzoc4eqybg3efzzxe
+  '@elephant-healthcare/config-provider': 1.5.3_cxb65ekrtd6awtninm5rhvstfy
   extract-tld: 1.1.1
   react: 18.2.0
-  typescript: 4.7.4
+  typescript: 5.4.3
 
 packages:
 
-  /@elephant-healthcare/config-provider/1.5.3_qtbnez4q7bzoc4eqybg3efzzxe:
+  /@elephant-healthcare/config-provider/1.5.3_cxb65ekrtd6awtninm5rhvstfy:
     resolution: {integrity: sha512-zBzT+vMUReumOLQ1AE8Zf34iX/TxIvLbthKawiiaj5TCE1UX8w4XcwAtRtwYKylPZshZwfhkmiXQK9lsnsWqwg==}
     peerDependencies:
       react: ^16.14.0 || 17 || 18
       typescript: ^4.4
     dependencies:
       react: 18.2.0
-      typescript: 4.7.4
+      typescript: 5.4.3
     dev: false
 
   /extract-tld/1.1.1:
@@ -46,8 +46,8 @@ packages:
       loose-envify: 1.4.0
     dev: false
 
-  /typescript/4.7.4:
-    resolution: {integrity: sha512-C0WQT0gezHuw6AdY1M2jxUO83Rjf0HP7Sk1DtXj6j1EwkQNZrHAg2XPWlq62oqEhYvONq5pkC2Y9oPljWToLmQ==}
-    engines: {node: '>=4.2.0'}
+  /typescript/5.4.3:
+    resolution: {integrity: sha512-KrPd3PKaCLr78MalgiwJnA25Nm8HAmdwN3mYUYZgG/wizIo9EainNVQI9/yDavtVFRN2h3k8uf3GLHuhDMgEHg==}
+    engines: {node: '>=14.17'}
     hasBin: true
     dev: false
