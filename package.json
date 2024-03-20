@@ -13,6 +13,6 @@
     "@elephant-healthcare/config-provider": "1.5.3",
     "extract-tld": "^1.1.1",
     "react": "18.2.0",
-    "typescript": "4.7.4"
+    "typescript": "5.4.3"
   }
 }
